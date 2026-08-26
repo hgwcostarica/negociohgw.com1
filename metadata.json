@@ -1,0 +1,6 @@
+{
+  "name": "HGW LATAM - Catálogo, Oficinas & Sistema",
+  "description": "Plataforma oficial de productos, directorio de oficinas en Latinoamérica, videos del sistema, bonos y herramientas de prospección HGW Health Green World.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
